@@ -74,9 +74,9 @@
     <circle cx="26" cy="13" r="3.5" fill="#ffb300" />
     <circle cx="38" cy="13" r="3.5" fill="#00e5ff" />
     <text class="mono" x="52" y="17" font-size="10" fill="#5d7290">top 3 anime</text>
-    <text class="mono" x="16" y="62" font-size="12.5" fill="#c5d4e6"><tspan fill="#00e5ff">&gt;</tspan> chainsaw_man</text>
-    <text class="mono" x="16" y="96" font-size="12.5" fill="#c5d4e6"><tspan fill="#00e5ff">&gt;</tspan> one_piece</text>
-    <text class="mono" x="16" y="130" font-size="12.5" fill="#c5d4e6"><tspan fill="#00e5ff">&gt;</tspan> naruto</text>
+    <text class="mono" x="16" y="62" font-size="12.5" fill="#c5d4e6"><tspan fill="#00e5ff">&gt;</tspan> Chainsaw Man</text>
+    <text class="mono" x="16" y="96" font-size="12.5" fill="#c5d4e6"><tspan fill="#00e5ff">&gt;</tspan> One Piece</text>
+    <text class="mono" x="16" y="130" font-size="12.5" fill="#c5d4e6"><tspan fill="#00e5ff">&gt;</tspan> Naruto</text>
   </g>
 
   <!-- panel: games -->
@@ -87,9 +87,9 @@
     <circle cx="26" cy="13" r="3.5" fill="#ffb300" />
     <circle cx="38" cy="13" r="3.5" fill="#00e5ff" />
     <text class="mono" x="52" y="17" font-size="10" fill="#5d7290">top 3 games</text>
-    <text class="mono" x="16" y="62" font-size="12.5" fill="#c5d4e6"><tspan fill="#ff2d95">&gt;</tspan> final_fantasy_vii</text>
-    <text class="mono" x="16" y="96" font-size="12.5" fill="#c5d4e6"><tspan fill="#ff2d95">&gt;</tspan> kingdom_hearts_ii</text>
-    <text class="mono" x="16" y="130" font-size="12.5" fill="#c5d4e6"><tspan fill="#ff2d95">&gt;</tspan> expedition_33</text>
+    <text class="mono" x="16" y="62" font-size="12.5" fill="#c5d4e6"><tspan fill="#ff2d95">&gt;</tspan> Final Fantasy VII</text>
+    <text class="mono" x="16" y="96" font-size="12.5" fill="#c5d4e6"><tspan fill="#ff2d95">&gt;</tspan> Kingdom Hearts II</text>
+    <text class="mono" x="16" y="130" font-size="12.5" fill="#c5d4e6"><tspan fill="#ff2d95">&gt;</tspan> Expedition 33</text>
   </g>
 
   <!-- panel: learning -->
@@ -100,8 +100,8 @@
     <circle cx="26" cy="13" r="3.5" fill="#ffb300" />
     <circle cx="38" cy="13" r="3.5" fill="#00e5ff" />
     <text class="mono" x="52" y="17" font-size="10" fill="#5d7290">now learning</text>
-    <text class="mono" x="16" y="62" font-size="12.5" fill="#c5d4e6"><tspan fill="#ffb300">&gt;</tspan> personalized_ml</text>
-    <text class="mono" x="16" y="96" font-size="12.5" fill="#c5d4e6"><tspan fill="#ffb300">&gt;</tspan> model_deployment</text>
+    <text class="mono" x="16" y="62" font-size="12.5" fill="#c5d4e6"><tspan fill="#ffb300">&gt;</tspan> Personalized ML</text>
+    <text class="mono" x="16" y="96" font-size="12.5" fill="#c5d4e6"><tspan fill="#ffb300">&gt;</tspan> Model Deployment</text>
     <text class="mono tag-blink" x="16" y="130" font-size="10" fill="#ffb300">[ IN_PROGRESS ]</text>
   </g>
 
